@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Studying **Bachelor of Computer Science.**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 📫 How to reach me **faisalshafique146@gmail.com**
